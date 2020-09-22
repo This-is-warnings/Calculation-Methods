@@ -1,0 +1,7 @@
+D:\SEMESTR_5\MV\lab1_CSharp\lab1_CSharp\bin\Debug\lab1_CSharp.exe.config
+D:\SEMESTR_5\MV\lab1_CSharp\lab1_CSharp\bin\Debug\lab1_CSharp.exe
+D:\SEMESTR_5\MV\lab1_CSharp\lab1_CSharp\bin\Debug\lab1_CSharp.pdb
+D:\SEMESTR_5\MV\lab1_CSharp\lab1_CSharp\obj\Debug\lab1_CSharp.csprojAssemblyReference.cache
+D:\SEMESTR_5\MV\lab1_CSharp\lab1_CSharp\obj\Debug\lab1_CSharp.csproj.CoreCompileInputs.cache
+D:\SEMESTR_5\MV\lab1_CSharp\lab1_CSharp\obj\Debug\lab1_CSharp.exe
+D:\SEMESTR_5\MV\lab1_CSharp\lab1_CSharp\obj\Debug\lab1_CSharp.pdb
